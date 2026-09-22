@@ -1,3 +1,7 @@
+## TechFlow Solutions
+
+This project demonstrates a responsive business website with automated deployment.
+
 # TechFlow Solutions Website
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
